@@ -11,6 +11,8 @@ echo gettype ($niks);
 echo "<br>";
 $getal = 10;
 echo gettype ($getal);
-
+echo "<br>";
+$hetIs = true;
+echo gettype ($hetIs);
 
 ?>

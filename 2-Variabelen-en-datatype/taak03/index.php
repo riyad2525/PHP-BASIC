@@ -9,8 +9,8 @@ echo "<br>";
 echo "<br>";
 echo "<br>";
 echo "<br>";
-$melkprijs = 1.25;
-echo $melkprijs;
+$melkPrijs = 1.25;
+echo $melkPrijs;
 ?>
 
 </body>
